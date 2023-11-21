@@ -13,10 +13,20 @@ Hoy después de haber participado en varios proyecto tanto personales como en eq
 Mi objetivo es seguir explorando en el mundo de la tecnología, y poder seguir creciendo tanto personal como profesionalmente. 
 Busco ampliar mi experiencia en desarrollo web para poder ofrecer soluciones que ayuden a los usuarios a tener una experiencia innovadora y gratificante. 
 Las tecnologias que eso actualemente son: 
-JavaScript - CSS - React - Vite - PosgreSQL - Express - Html5 - Node-
+-JavaScript
+-CSS 
+-React 
+-Vite 
+-PosgreSQL 
+-Express 
+-Html5 
+-Node 
+-Git
 
 Si estás interesado en mi perfil, no dudes en comunicarte conmigo:
+
 correo electronico: mayraacamiccia@gmail.com    
+
 Linkedin: www.linkedin.com/in/mayracamiccia
 
 
